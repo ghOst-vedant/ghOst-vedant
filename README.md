@@ -1,6 +1,7 @@
 - 👋 Hi, I’m vedant
 -  I’m interested in TECH 
--  Learning Web and Flutter
+-  React.js
+-  DSA practioner
 
 
 
