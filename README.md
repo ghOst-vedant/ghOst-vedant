@@ -1,5 +1,5 @@
 - 👋 Hi, I’m vedant
--  I’m interested in TECH 
+-  A 3rd year CSE TECH Geek
 -  React.js
 -  DSA practioner
 
