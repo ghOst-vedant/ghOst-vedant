@@ -1,5 +1,6 @@
 - 👋 Hi, I’m vedant
 -  A 3rd year CSE TECH Geek
+  
   **Frontend Tech Stack:**
 - React | React-Redux
 - Tailwind CSS | Material UI
