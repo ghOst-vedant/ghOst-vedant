@@ -1,8 +1,14 @@
 - 👋 Hi, I’m vedant
 -  A 3rd year CSE TECH Geek
--  React.js
--  DSA practioner
+  **Frontend Tech Stack:**
+- React | React-Redux
+- Tailwind CSS | Material UI
 
+**Backend Expertise:**
+- Express | Node.js
+- MongoDB | Cloudinary
+
+Passionate about crafting seamless web experiences through cutting-edge technologies. Let's connect and elevate the digital world together! 
 
 
 <!---
