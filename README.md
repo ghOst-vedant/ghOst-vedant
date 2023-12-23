@@ -5,7 +5,7 @@
 - React | React-Redux
 - Tailwind CSS | Material UI
 
-**Backend Expertise:**
+**Backend:**
 - Express | Node.js
 - MongoDB | Cloudinary
 
