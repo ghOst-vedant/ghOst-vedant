@@ -1,12 +1,12 @@
 - 👋 Hi, I’m vedant
--  A 3rd year CSE TECH Geek
+-  A 4rd year CSE TECH Geek
   
   **Frontend Tech Stack:**
-- React | React-Redux
+- React | React-Redux | Next
 - Tailwind CSS | Material UI
-
+-TypeScript
 **Backend:**
-- Express | Node.js
+- Express | Node.js | tRPC
 - MongoDB | Cloudinary
 
 Passionate about crafting seamless web experiences through cutting-edge technologies. Let's connect and elevate the digital world together! 
