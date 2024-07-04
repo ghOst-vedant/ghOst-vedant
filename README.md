@@ -9,7 +9,7 @@
 - Express | Node.js | tRPC
 - MongoDB | Cloudinary
 
-Passionate about crafting seamless web experiences through cutting-edge technologies. Let's connect and elevate the digital world together! 
+Passionate about crafting seamless web experiences through trending technologies. Let's connect and elevate the digital world together! 
 
 
 <!---
