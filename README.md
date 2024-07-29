@@ -4,9 +4,9 @@
   **Frontend Tech Stack:**
 - React | React-Redux | Next
 - Tailwind CSS | Material UI
--TypeScript
+- TypeScript
 **Backend:**
-- Express | Node.js | tRPC
+- Express | Node.js 
 - MongoDB | Cloudinary
 
 Passionate about crafting seamless web experiences through trending technologies. Let's connect and elevate the digital world together! 
