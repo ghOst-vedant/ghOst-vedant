@@ -2,12 +2,12 @@
 -  A 4rd year CSE TECH Geek
   
   **Frontend Tech Stack:**
-- React | React-Redux | Next
-- Tailwind CSS | Material UI
-- TypeScript
+- React | React-Redux | NextJs | TypeScript
+- Tailwind CSS |
+  
 **Backend:**
 - Express | Node.js 
-- MongoDB | Cloudinary
+- MongoDB |
 
 Passionate about crafting seamless web experiences through trending technologies. Let's connect and elevate the digital world together! 
 
